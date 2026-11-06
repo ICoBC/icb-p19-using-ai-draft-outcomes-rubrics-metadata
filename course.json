@@ -1,0 +1,33 @@
+{
+  "course_id": "ICB-P19",
+  "repository": "icb-p19-using-ai-draft-outcomes-rubrics-metadata",
+  "repository_url": "https://github.com/ICoBC/icb-p19-using-ai-draft-outcomes-rubrics-metadata",
+  "title": "Using AI to Draft Outcomes, Rubrics and Metadata Responsibly",
+  "subtitle": "A documented method for AI-assisted credential design.",
+  "version": "1.0.0",
+  "series": "Practitioner",
+  "skill": "Trustworthy AI in recognition",
+  "level": "2",
+  "level_name": "Operate",
+  "stage": "A",
+  "stage_name": "Ability",
+  "alignment_code": "ICSF-AIRC-L2-A",
+  "badge_name": "Using AI to Draft Outcomes, Rubrics and Metadata Responsibly (Ability, L2)",
+  "hours": "4",
+  "language": "en-GB",
+  "licence": "CC BY 4.0",
+  "licensor": "International Council on Badges and Credentials e.V.",
+  "web": "https://academy.icobc.net/courses/icb-p19/",
+  "parts": [
+    "About this course",
+    "Good inputs",
+    "Drafting",
+    "Checking",
+    "Documenting",
+    "Data protection",
+    "Assessment and badge",
+    "Sources and further reading"
+  ],
+  "final_questions": 10,
+  "practice_questions": 23
+}
